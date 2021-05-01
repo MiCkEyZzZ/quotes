@@ -24,7 +24,7 @@ Server side: Node, Express, Socket IO
 
 ```bash
   # npm
-  npm dev
+  npm run dev
   ```
 
 
