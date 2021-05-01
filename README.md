@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
-#### npm install
+#### Npm install
 
 ```bash
   # Server side in the quotes folder
