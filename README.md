@@ -1,19 +1,20 @@
-# Тестовое задание. Таблица Котировок
+# Quote Table
 
 [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
-#### Для установки
+#### npm install
 
 ```bash
-  # Серверная часть в папке quotes
+  # Server side in the quotes folder
   npm install
-  # Серверная часть перейти в папку client
+  # Client side in the client folder
   npm install
   ```
 
-## Для быстрого старта
+#### QuickStart
 
 ```bash
   # npm
   npm dev
   ```
+
