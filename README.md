@@ -7,7 +7,7 @@ Client side: React, Socket IO
 
 Server side: Node, Express, Socket IO
 
-[![npm version](https://img.shields.io/npm/v/node)](https://www.npmjs.com/package/nodejs)
+[![npm version](https://img.shields.io/badge/npm-%5E16.0.0-blue)](https://www.npmjs.com/package/node)
 [![npm version](https://img.shields.io/npm/v/express)](https://www.npmjs.com/package/express)
 [![npm version](https://img.shields.io/npm/v/socket-io-server)](https://www.npmjs.com/package/socket)
 
