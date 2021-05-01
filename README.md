@@ -9,7 +9,7 @@ Server side: Node, Express, Socket IO
 
 [![npm version](https://img.shields.io/badge/npm-%5E16.0.0-blue)](https://www.npmjs.com/package/node)
 [![npm version](https://img.shields.io/badge/npm-%5E14.17.1-blue)](https://www.npmjs.com/package/express)
-[![npm version](https://img.shields.io/npm/v/socket-io-server)](https://www.npmjs.com/package/socket)
+[![npm version](https://img.shields.io/badge/npm-%5E1.0.5-blue)](https://www.npmjs.com/package/socket)
 
 ### Installation
 
