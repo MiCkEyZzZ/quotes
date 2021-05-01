@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
-#### Npm install
+### Installation
 
 ```bash
   # Server side in the quotes folder
@@ -11,10 +11,11 @@
   npm install
   ```
 
-#### QuickStart
+### QuickStart
 
 ```bash
   # npm
   npm dev
   ```
+
 
